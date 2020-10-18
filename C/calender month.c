@@ -13,7 +13,7 @@ void main()
     printf("the no of the day from which the month begins \n 0 for sunday \n 1 for monday \n 2 for tuesday \n 3 for wednesday \n 4 for thursday \n 5 for friday \n 6 for sunday \n => ");
     scanf( "%d",&strtno);
 
-    printf("Nter the no of days in month ");
+    printf("Enter the no of days in month ");
     scanf("%d",&no);
     prntmonth(strtno,no);
 
