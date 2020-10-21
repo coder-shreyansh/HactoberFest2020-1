@@ -14,7 +14,7 @@ int main()
 
 	//formula of subtraction
 	sub= a-b;
-	printf("subtract is = %d\n", sub);
+	printf("subtraction is = %d\n", sub);
 
 	return 0;
 
